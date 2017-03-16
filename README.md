@@ -1,4 +1,6 @@
 # Open Notes V1.0
+[![Build Status](https://travis-ci.org/AnthonyAmanse/OpenNotes.svg?branch=master)](https://travis-ci.org/AnthonyAmanse/OpenNotes)
+
 Android Note Taking App
 
 A simple note taking app.
