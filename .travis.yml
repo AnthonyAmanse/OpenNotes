@@ -1,4 +1,5 @@
 language: java
+sudo: required
 notifications:
   email:
     - anthonyamanse@gmail.com
